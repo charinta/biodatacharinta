@@ -1,0 +1,33 @@
+div {
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.alamat {
+    margin-bottom: 40px;
+}
+
+a {
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #cbc0d3;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
